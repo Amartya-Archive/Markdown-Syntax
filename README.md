@@ -120,7 +120,7 @@ Just copy paste
 <br>
 
 
-### Tablr syntax
+### Table syntax
 
 |Name|Email|
 |----|-----|
